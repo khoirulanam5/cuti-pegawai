@@ -1,0 +1,4 @@
+CUTI/
+  .gitignore
+  database/
+     db_cuti.sql

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistem Pengajuan Perizinan Cuti Pegawai
 
 Sistem pengajuan cuti pegawai berbasis web dengan alur persetujuan berjenjang. Dibangun menggunakan **PHP Native**, **MySQL**, serta frontend **HTML**, **CSS**, **JavaScript**, dan **Bootstrap**.
@@ -115,4 +114,3 @@ Open Source / Private, sesuaikan kebutuhan Anda.
 =======
 # framework_pribadi
 cuti pegawai
->>>>>>> b717e7d33ef31f1c72ce4d53c63b1e403d6717f9
